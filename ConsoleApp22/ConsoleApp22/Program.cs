@@ -8,7 +8,6 @@ namespace ConsoleApp22
         {
             int x = int.Parse(Console.ReadLine());
             string u = Console.ReadLine();
-            Console.WriteLine("TEsssttt");
 
             if (x >= 0 && x <= 999999)
             {
